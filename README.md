@@ -85,8 +85,8 @@ Now open your browser and visit **[http://localhost:5173/](http://localhost:5173
 ## 🌍 Deployment
 
 The project is deployed here:
-🔗 **Live Demo:** [https://your-deployed-link.vercel.app](https://your-deployed-link.vercel.app)
-📦 **GitHub Repo:** [https://github.com/your-username/appdost-frontend](https://github.com/your-username/appdost-frontend)
+🔗 **Live Demo:** [https://keerthiga-appdost.vercel.app/](https://keerthiga-appdost.vercel.app/)
+📦 **GitHub Repo:** [https://github.com/S-D-Keerthiga-Devi/AppDost](https://github.com/S-D-Keerthiga-Devi/AppDost)
 
 
 ## 💡 Future Improvements
